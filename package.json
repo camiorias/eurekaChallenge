@@ -1,0 +1,12 @@
+{
+  "name": "eurekachallenge",
+  "version": "1.0.0",
+  "description": "Eureka Challenge",
+  "main": "index.js",
+  "author": "camiorias",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "express": "^4.17.1",
+    "md5": "^2.3.0"
+  }
+}
